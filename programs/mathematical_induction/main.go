@@ -34,7 +34,7 @@ func get_desired_answer() uint8 {
 		log.Fatal("Missing an argument.")
 	}
 
-	value, err := strconv.ParseInt(os.Args[1], 10, 8)
+	value, err := strconv.ParseUint(os.Args[1], 10, 8)
 	if err != nil {
 		panic(err)
 	}
