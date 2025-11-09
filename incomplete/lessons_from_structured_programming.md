@@ -8,7 +8,9 @@ Being programmers with very small heads, we must utilise tools in order to comba
 
 The enemy of the programmer's efforts is complexity, i.e. the byproduct of our attempts to build more powerful computations. Systems which require great mental efforts to squeeze through, caused by their inherent complexity, are very impractical systems.
 
-The art of programming, far from being some esoteric ideal, is really about the design of programs--programs which never attempt to battle complexity head on. Good program design cuts the beast apart at the base, it never gives complexity a chance to grow. Furthermore, the art of programming is about dealing with the set of problems which are within the intellectual grips of a human. This, as opposed to reducing our opportunities, will be a vehicle towards greater human reasoning.
+The art of programming, far from being some esoteric ideal, is really about the design of programs--programs which never attempt to battle complexity head on.
+
+Good program design cuts the beast apart at the base, it never gives complexity a chance to grow. Furthermore, the art of programming is about dealing with the set of problems which are within the intellectual grips of a human. This, as opposed to reducing our opportunities, will be a vehicle towards greater human reasoning.
 
 If mathematics is the science of effective reasoning and programming is a branch of mathematics, then we, as programmers, should have no doubt as to where our energy should be spent. 
  
