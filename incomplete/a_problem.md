@@ -23,4 +23,4 @@ Let `x:=4; y:=2`. Then we do the following:
   2) [is r 0?] r = 0; return x
 ```
 
-And there you have it, we have successfully used Euclid's algorithm to solve our problem. We have only chosen a single-very easy-iteration of it, but to deal with cases is for another day.
+And there you have it, we have successfully used Euclid's algorithm to solve our problem. We have only chosen a single-very easy-iteration of it, but to deal with other cases is for another day.
